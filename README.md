@@ -2,7 +2,7 @@
 A bridge over the Kentucky River in Central Kentucky
 
 ## Introduction
-High Bridge was originally constructed in the 1870's, as a means of transportation across the Kentucky River for the Cincinnati Southern Railraod. Because this was the first cantilever bridge built in America, it is said to be the "beginning of modern scientific bridge building."
+High Bridge was originally constructed in the 1870's, as a means of transportation across the Kentucky River for the Cincinnati Southern Railroad. Because this was the first cantilever bridge built in America, it is said to be the "beginning of modern scientific bridge building."
 The bridge rises approximately 280 feet over the Kentucky River, making it the tallest bridge in the world at the time of its construction. It connects Jessamine and Mercer Counties by crossing the river at the Palisades.
 
 ## An Image of High Bridge, Kentucky
