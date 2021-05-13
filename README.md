@@ -7,7 +7,7 @@
 
 ## Introduction
 High Bridge was originally constructed in the 1870's, as a means of transportation across the Kentucky River for the Cincinnati Southern Railroad. Because this was the first cantilever bridge built in America, it is said to be the "beginning of modern scientific bridge building."
-The bridge rises approximately 280 feet over the Kentucky River, making it the tallest bridge in the world at the time of its construction. It connects Jessamine and Mercer Counties by crossing the river around the Kentucky Palisades. In addition, the bridge has been designated as a National Civil Engineering Landmark. Todyay, visitors come from all ove the state, country, and world to see this remarkable feat of engineering. There is a nearby park on top of the Palisades that features a picnic area, playground, and viewing platform.
+The bridge rises approximately 280 feet over the Kentucky River, making it the tallest bridge in the world at the time of its construction. It connects Jessamine and Mercer Counties by crossing the river around the Kentucky Palisades. In addition, the bridge has been designated as a National Civil Engineering Landmark. Today, visitors come from all ove the state, country, and world to see this remarkable feat of engineering. There is a nearby park on top of the Palisades that features a picnic area, playground, and viewing platform.
 
 Goals of this project include:
 * mapping the surrounding area in high-resolution aerial lidar data,
@@ -18,10 +18,9 @@ Goals of this project include:
 
 ## High Bridge During Construction
 
-    These are images of the bridge during early construction. Notice the cantilever trusses!
+#### These are images of the bridge during early construction. Notice the cantilever trusses!
 
 ![High Bridge, Kentucky](graphics/earlybridge.jpg)
-
 *Archive Project Image, accessed May 2021*
 
 ![High Bridge, Kentucky](graphics/highbridgeconstruction.jpg)
@@ -29,15 +28,17 @@ Goals of this project include:
 
 ## A Lidar Image of High Bridge, Kentucky
 
-    Look at the steep Kentucky Palisades on both sides of the river!
+#### Look at the steep Kentucky Palisades on both sides of the river!
 
 ![High Bridge, Kentucky](graphics/highBridge.jpg)
 *Lidar Image, produced by Isaac Smith, 2021*
 
 ## An Animation of High Bridge, Kentucky
 
-[High Bridge Animation](https://www.youtube.com/watch?v=EQ29kmdPV54)
+![High Bridge Animation](graphics/videoanimation.jpg)    
+*([Watch Video](https://www.youtube.com/watch?v=EQ29kmdPV54))*
 *YouTube Video, produced by Isaac Smith, 2021*
+
 
 ## A Site Map of High Bridge, Kentucky
 Contour Intervals of the Surrounding Area
@@ -47,5 +48,7 @@ Contour Intervals of the Surrounding Area
 
 ## A Tour of High Bridge, Kentucky
 
-[High Bridge Tour](https://issm224.github.io/highbridgeky/tour/)
+[High Bridge Tour](graphics/cesiumion.jpg)
+*([Take Tour](https://issm224.github.io/highbridgeky/tour/)*
 *Cesium Ion Tour, produced by Isaac Smith, 2021*
+
