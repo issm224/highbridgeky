@@ -54,3 +54,10 @@ Goals of this project include:
 *([Take Tour](https://issm224.github.io/highbridgeky/tour/))*
 *Cesium Ion Tour, produced by Isaac Smith, 2021*
 
+## Sources and Tools
+
+Elevation data was acquired from the Kentucky's Elevation Data & Aerial Photography Program ([KyFromAbove.ky.gov](http://kyfromabove.ky.gov)).
+LIDAR and digital surface model tools were used to process and analyze the data for the project. This can be found using [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources).
+
+## About the Project
+This project was completed as the final portfolio for GEO409 at the University of Kentucky. The project was compiled and completed by Isaac Smith on May 13, 2021. 
