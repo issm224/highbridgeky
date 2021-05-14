@@ -60,4 +60,4 @@ Elevation data was acquired from the Kentucky's Elevation Data & Aerial Photogra
 LIDAR and digital surface model tools were used to process and analyze the data for the project. This can be found using [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources).
 
 ## About the Project
-This project was completed as the final portfolio for GEO409 at the University of Kentucky. The project was compiled and completed by Isaac Smith on May 13, 2021. 
+This project was completed as the final portfolio for GEO409 at the University of Kentucky. The project was compiled and completed by Isaac Smith on May 13, 2021. Thank you.
