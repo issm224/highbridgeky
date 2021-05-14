@@ -36,7 +36,7 @@ Goals of this project include:
 
 ## An Animation of High Bridge, Kentucky
 
-![High Bridge Animation](graphics/videoanimation.jpg)    
+![High Bridge Animation](graphics/videoanimation.JPG)    
 *([Watch Video](https://www.youtube.com/watch?v=EQ29kmdPV54))*
 *YouTube Video, produced by Isaac Smith, 2021*
 
@@ -44,13 +44,13 @@ Goals of this project include:
 
 #### Contour Intervals of the Surrounding Area
 
-![High Bridge Site Map](graphics/contour.jpg)
+![High Bridge Site Map](graphics/contour.JPG)
 *([View Site](https://issm224.github.io/highbridgeky/site-map/))*
 *Mapbox Site Map, produced by Isaac Smith, 2021*
 
 ## A Tour of High Bridge, Kentucky
 
-![High Bridge Tour](graphics/cesiumion.jpg)
+![High Bridge Tour](graphics/cesiumion.JPG)
 *([Take Tour](https://issm224.github.io/highbridgeky/tour/))*
 *Cesium Ion Tour, produced by Isaac Smith, 2021*
 
